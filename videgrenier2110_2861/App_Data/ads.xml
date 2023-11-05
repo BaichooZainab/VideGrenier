@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+
+<Advertisements>
+    <Ad>
+        <ImageUrl>~/images/macdo.jpg</ImageUrl>
+        <Width>50%</Width>
+        
+        <NavigateUrl>http://www.mcdonalds.mu/</NavigateUrl>
+        <AlternateText>Macdonald Menu</AlternateText>
+        <Impressions>20</Impressions>
+    </Ad>
+    <Ad>
+        <ImageUrl>~/images/ford.jpg</ImageUrl>
+         <Width>50%</Width>
+        <NavigateUrl>https://www.ford.com/</NavigateUrl>
+        <AlternateText>Ford F-150</AlternateText>
+        <Impressions>20</Impressions>
+    </Ad>
+    <Ad>
+        <ImageUrl>~/images/artisan.jpg</ImageUrl>
+        <Width>50%</Width>
+        <NavigateUrl>https://www.artisancoffee.mu/</NavigateUrl>
+        <AlternateText>Artisan coffee</AlternateText>
+        <Impressions>20</Impressions>
+    </Ad>
+    
+
+</Advertisements>
